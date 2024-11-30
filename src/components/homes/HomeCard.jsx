@@ -46,8 +46,8 @@ const HomeCard = ({ item: { id, cover, name, rating, time, desc, starring, genre
             <Link to={`/singlepage/${id}`}>
               <button>
                 <div className='img'>
-                  <img src='./images/play-button.png' alt='' />
-                  <img src='./images/play.png' className='change' />
+                  <img src='./images/play-button.png' alt='img' />
+                  <img src='./images/play.png' className='change' alt="img" />
                 </div>
                 WATCH TRAILER
               </button>
