@@ -35,9 +35,9 @@ const SinglePage = () => {
               </div>
               <div className='soical'>
                 <h3>Share : </h3>
-                <img src='https://img.icons8.com/color/48/000000/facebook-new.png' />
-                <img src='https://img.icons8.com/fluency/48/000000/twitter-circled.png' />
-                <img src='https://img.icons8.com/fluency/48/000000/linkedin-circled.png' />
+                <img alt="img" src='https://img.icons8.com/color/48/000000/facebook-new.png' />
+                <img alt="img" src='https://img.icons8.com/fluency/48/000000/twitter-circled.png' />
+                <img alt="img" src='https://img.icons8.com/fluency/48/000000/linkedin-circled.png' />
               </div>
             </div>
           </section>
